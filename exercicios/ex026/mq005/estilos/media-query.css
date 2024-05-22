@@ -7,9 +7,13 @@
 
     menu {
        display:block;
+       text-align: center;
     }
 
     menu > ul > li {
+        width: 12vw;
+        max-width: 150px;
+        margin-left: 10px;
         display: inline-block;
     }
 }
